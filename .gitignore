@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OULAD data (CC BY 4.0, downloaded by src/download_data.py) and cached arrays
+data/raw/
+data/processed/
+*.zip
+
+# Trained models (re-created by src/run_experiments.py)
+models/
+*.pt
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
