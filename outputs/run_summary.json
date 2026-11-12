@@ -1,0 +1,8 @@
+{
+  "n_enrolments": 29496,
+  "at_risk_ratio": 0.4784038513696772,
+  "n_train": 20620,
+  "n_val": 2963,
+  "n_test": 5913,
+  "runtime_seconds": 400.4
+}
